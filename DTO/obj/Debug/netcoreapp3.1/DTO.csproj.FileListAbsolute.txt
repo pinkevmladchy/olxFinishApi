@@ -1,0 +1,9 @@
+E:\Olx_finish\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+E:\Olx_finish\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+E:\Olx_finish\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+E:\Olx_finish\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+E:\Olx_finish\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+E:\Olx_finish\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+E:\Olx_finish\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+E:\Olx_finish\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+E:\Olx_finish\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

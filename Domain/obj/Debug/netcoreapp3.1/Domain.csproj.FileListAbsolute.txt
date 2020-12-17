@@ -1,0 +1,12 @@
+E:\Olx_finish\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\Olx_finish\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Olx_finish\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Olx_finish\Domain\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\Olx_finish\Domain\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

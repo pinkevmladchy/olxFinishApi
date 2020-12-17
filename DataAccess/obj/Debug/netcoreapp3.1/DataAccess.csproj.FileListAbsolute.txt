@@ -1,0 +1,9 @@
+E:\Olx_finish\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+E:\Olx_finish\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\Olx_finish\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Olx_finish\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+E:\Olx_finish\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+E:\Olx_finish\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+E:\Olx_finish\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\Olx_finish\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+E:\Olx_finish\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
