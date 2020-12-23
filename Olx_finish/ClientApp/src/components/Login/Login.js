@@ -17,7 +17,7 @@ export class Login extends Component {
                               <form className="form" role="form" autocomplete="off" id="formLogin" novalidate="" method="POST">
                                   <div className="form-group">
                                       <label for="uname1">Номер телефону</label>
-                                      <input type="text" className="form-control form-control-lg rounded-0" name="uname1" id="uname1" required=""></input>
+                                      <input type="text" className="form-control form-control-lg rounded-0" name="uname1" id="uname1" required=""/>
                                       <div className="invalid-feedback">Oops, you missed this one.</div>
                                   </div>
                                   <div className="form-group">

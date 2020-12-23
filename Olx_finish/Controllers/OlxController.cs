@@ -34,18 +34,17 @@ namespace Olx_finish.Controllers
         public void AddTovar(TovarDTO tovar)
         {
             List<Tovar_Image> images = _context.Tovar_Images.Where(x => x.Tovar.Id == tovar.Id).ToList();
+            UserAdditionalInfo userAdditional = _context.AdditionalInfos.FirstOrDefault(x => x.Id == tovar.UserId);
             Categories categoriesa = _context.Categories.FirstOrDefault(x => x.ID == tovar.CategoryId);
-            UserAdditionalInfo userAdditional = _context.AdditionalInfos.FirstOrDefault(x => x.Id == tovar.UserAdditionalInfo.Id);
             Tovar newTovar = new Tovar
             {
                 Description = tovar.Description,
                 Category = categoriesa,
                 CategoryId = tovar.CategoryId,
-                City = tovar.City,
                 Cost = tovar.Cost,
                 Images = images,
                 Name = tovar.Name,
-                UserAdditionalInfo = userAdditional,
+                UserId = userAdditional.Id,
                 Id = tovar.Id
             };
             _context.Tovars.Add(newTovar);
@@ -58,9 +57,9 @@ namespace Olx_finish.Controllers
             return _context.Tovars.Where(x =>x.Category.Name==Cat).ToList();
         }
         [HttpGet("TovarUser")]
-        public List<Tovar> GetTovarForUser(string User)
+        public List<Tovar> GetTovarForUser(string Id)
         {
-            return _context.Tovars.Where(x => x.UserAdditionalInfo.Name == User).ToList();
+            return _context.Tovars.Where(x => x.UserId == Id).ToList();
         }
         [HttpGet("TovarSearch")]
         public List<Tovar> GetTovarSearch(string Request)

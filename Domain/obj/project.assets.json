@@ -1103,19 +1103,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\egord\\.nuget\\packages\\": {}
+    "C:\\Users\\Serhii Pinkevych\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Olx_finish\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\MyEducation\\TempOlx\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "E:\\Olx_finish\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\egord\\.nuget\\packages\\",
-      "outputPath": "E:\\Olx_finish\\Domain\\obj\\",
+      "projectPath": "D:\\MyEducation\\TempOlx\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\Serhii Pinkevych\\.nuget\\packages\\",
+      "outputPath": "D:\\MyEducation\\TempOlx\\Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\egord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Serhii Pinkevych\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1127,10 +1131,9 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Olx_finish\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\Olx_finish\\DataAccess\\DataAccess.csproj"
+            "D:\\MyEducation\\TempOlx\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\MyEducation\\TempOlx\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -1143,7 +1146,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.IdentityModel.Tokens": {
             "target": "Package",
@@ -1169,7 +1171,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

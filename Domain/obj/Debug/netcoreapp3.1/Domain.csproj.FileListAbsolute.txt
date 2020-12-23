@@ -10,3 +10,15 @@ E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cac
 E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
 E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 E:\Olx_finish\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\MyEducation\TempOlx\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\MyEducation\TempOlx\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\MyEducation\TempOlx\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\MyEducation\TempOlx\Domain\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\MyEducation\TempOlx\Domain\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\MyEducation\TempOlx\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\MyEducation\TempOlx\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\MyEducation\TempOlx\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\MyEducation\TempOlx\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\MyEducation\TempOlx\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+D:\MyEducation\TempOlx\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\MyEducation\TempOlx\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
